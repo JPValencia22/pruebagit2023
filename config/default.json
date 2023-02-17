@@ -7,7 +7,7 @@
             "dbname": "AcademicDB"
         }
     },
-    "secretKeys":{
+    "secretkeys":{
         "cryptojs" : "jsA5t2@tfhD"
     },
     "roles": {
