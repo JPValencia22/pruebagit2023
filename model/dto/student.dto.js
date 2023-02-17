@@ -22,3 +22,6 @@ schema.statics = {
         this.findOneAndDelete(query);
     }
 };
+
+const dto = mongoose.model("coll_student", schema);
+module.exports = dto;

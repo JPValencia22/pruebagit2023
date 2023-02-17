@@ -6,5 +6,13 @@
             "password": "ProgramadorWeb",
             "dbname": "AcademicDB"
         }
-    }
+    },
+    "secretKeys":{
+        "cryptojs" : "jsA5t2@tfhD"
+    },
+    "roles": {
+        "student": 1,
+        "teacher": 2
+    },
+    "server-port": 3000
 }
